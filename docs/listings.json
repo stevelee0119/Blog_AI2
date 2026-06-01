@@ -2,9 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/korean-judicial-system/draft.html",
+      "/posts/korean-judicial-system/search.html",
       "/posts/military-judge-advocate/draft.html",
       "/posts/military-judge-advocate/search.html",
       "/posts/notebooklm/search.html",
+      "/posts/korean-judicial-system/index.html",
       "/posts/military-judge-advocate/index.html",
       "/posts/notebooklm/index.html",
       "/posts/post-with-code/index.html",
